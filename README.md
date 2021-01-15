@@ -1,4 +1,4 @@
-[*Versão em português.*](https://github.com/lucasfacchini/checkers-socket/blob/master/README-pt.md)
+[*Versão em português.*](https://github.com/lucasfacchini/stegano/blob/master/README-pt.md)
 
 # Description #
 
